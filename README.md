@@ -1,5 +1,5 @@
 # tensorflow-light-celsius-_to_fahrenheit
-![output](https://raw.githubusercontent.com/milkisa/tensorflow-light-celsius-to_to_fahrenheit/main/image/Capture.PNG)
+![output](https://raw.githubusercontent.com/milkisa/tensorflow-light-celsius-to_to_fahrenheit/image/Capture.PNG)
 
 
 
